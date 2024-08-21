@@ -1,4 +1,4 @@
-9718
+9715
 136C:\Users\Reynard Greyling\OneDrive - Numeral\Desktop\JS\complete-javascript-course\18-forkify\starter\node_modules\htmlnano\CHANGELOG.md133682676952594065 0
 158C:\Users\Reynard Greyling\OneDrive - Numeral\Desktop\JS\complete-javascript-course\18-forkify\starter\node_modules\htmlnano\lib\modules\removeOptionalTags.mjs133682676953552313 0
 163C:\Users\Reynard Greyling\OneDrive - Numeral\Desktop\JS\complete-javascript-course\18-forkify\starter\node_modules\caniuse-lite\data\features\keyboardevent-code.js133682676959706337 0
@@ -70,7 +70,7 @@
 144C:\Users\Reynard Greyling\OneDrive - Numeral\Desktop\JS\complete-javascript-course\18-forkify\starter\node_modules\@parcel\profiler\src\types.js133682676946401042 0
 150C:\Users\Reynard Greyling\OneDrive - Numeral\Desktop\JS\complete-javascript-course\18-forkify\starter\node_modules\type-fest\source\readonly-deep.d.ts133682676949136568 0
 168C:\Users\Reynard Greyling\OneDrive - Numeral\Desktop\JS\complete-javascript-course\18-forkify\starter\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\dist133682676950205154 1
-106C:\Users\Reynard Greyling\OneDrive - Numeral\Desktop\JS\complete-javascript-course\18-forkify\starter\dist133687056905987086 1
+106C:\Users\Reynard Greyling\OneDrive - Numeral\Desktop\JS\complete-javascript-course\18-forkify\starter\dist133687075106133378 1
 155C:\Users\Reynard Greyling\OneDrive - Numeral\Desktop\JS\complete-javascript-course\18-forkify\starter\node_modules\core-js\full\instance\group-by-to-map.js133685207095832978 0
 136C:\Users\Reynard Greyling\OneDrive - Numeral\Desktop\JS\complete-javascript-course\18-forkify\starter\node_modules\core-js\web\README.md133685207138062382 0
 127C:\Users\Reynard Greyling\OneDrive - Numeral\Desktop\JS\complete-javascript-course\18-forkify\starter\node_modules\lmdb\LICENSE133682676946793971 0
@@ -132,7 +132,7 @@
 156C:\Users\Reynard Greyling\OneDrive - Numeral\Desktop\JS\complete-javascript-course\18-forkify\starter\node_modules\csso\node_modules\mdn-data\css\units.json133682676948935731 0
 154C:\Users\Reynard Greyling\OneDrive - Numeral\Desktop\JS\complete-javascript-course\18-forkify\starter\node_modules\@swc\helpers\_\_iterable_to_array_limit133682676957283883 1
 176C:\Users\Reynard Greyling\OneDrive - Numeral\Desktop\JS\complete-javascript-course\18-forkify\starter\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\package.json133682676954600671 0
-114C:\Users\Reynard Greyling\OneDrive - Numeral\Desktop\JS\complete-javascript-course\18-forkify\starter\package.json133685273349617869 0
+114C:\Users\Reynard Greyling\OneDrive - Numeral\Desktop\JS\complete-javascript-course\18-forkify\starter\package.json133687074672000854 0
 152C:\Users\Reynard Greyling\OneDrive - Numeral\Desktop\JS\complete-javascript-course\18-forkify\starter\node_modules\core-js\features\instance\flat-map.js133685207091168453 0
 135C:\Users\Reynard Greyling\OneDrive - Numeral\Desktop\JS\complete-javascript-course\18-forkify\starter\node_modules\htmlnano\index.d.cts133682676949382706 0
 161C:\Users\Reynard Greyling\OneDrive - Numeral\Desktop\JS\complete-javascript-course\18-forkify\starter\node_modules\node-gyp-build-optional-packages\build-test.js133682676941964149 0
@@ -1474,7 +1474,6 @@
 144C:\Users\Reynard Greyling\OneDrive - Numeral\Desktop\JS\complete-javascript-course\18-forkify\starter\node_modules\svgo\plugins\convertColors.js133682676951337783 0
 152C:\Users\Reynard Greyling\OneDrive - Numeral\Desktop\JS\complete-javascript-course\18-forkify\starter\node_modules\core-js\modules\es.array.find-last.js133685207075097835 0
 146C:\Users\Reynard Greyling\OneDrive - Numeral\Desktop\JS\complete-javascript-course\18-forkify\starter\node_modules\core-js\internals\map-upsert.js133685207108942148 0
-124C:\Users\Reynard Greyling\OneDrive - Numeral\Desktop\JS\complete-javascript-course\18-forkify\starter\dist\index.62406edb.js133682683315138041 0
 153C:\Users\Reynard Greyling\OneDrive - Numeral\Desktop\JS\complete-javascript-course\18-forkify\starter\node_modules\svgo\plugins\convertEllipseToCircle.js133682676951403094 0
 164C:\Users\Reynard Greyling\OneDrive - Numeral\Desktop\JS\complete-javascript-course\18-forkify\starter\node_modules\core-js\proposals\explicit-resource-management.js133685207086745289 0
 179C:\Users\Reynard Greyling\OneDrive - Numeral\Desktop\JS\complete-javascript-course\18-forkify\starter\node_modules\@swc\helpers\esm\_class_check_private_static_field_descriptor.js133682676953997043 0
@@ -3018,7 +3017,6 @@
 159C:\Users\Reynard Greyling\OneDrive - Numeral\Desktop\JS\complete-javascript-course\18-forkify\starter\node_modules\core-js\features\reflect\get-own-metadata.js133685207094741516 0
 145C:\Users\Reynard Greyling\OneDrive - Numeral\Desktop\JS\complete-javascript-course\18-forkify\starter\node_modules\core-js\full\weak-map\index.js133685207101691854 0
 144C:\Users\Reynard Greyling\OneDrive - Numeral\Desktop\JS\complete-javascript-course\18-forkify\starter\node_modules\core-js\full\object\values.js133685207136276932 0
-125C:\Users\Reynard Greyling\OneDrive - Numeral\Desktop\JS\complete-javascript-course\18-forkify\starter\dist\index.f7626f62.css133687035551782627 0
 131C:\Users\Reynard Greyling\OneDrive - Numeral\Desktop\JS\complete-javascript-course\18-forkify\starter\node_modules\csso\cjs\replace133682676950606146 1
 138C:\Users\Reynard Greyling\OneDrive - Numeral\Desktop\JS\complete-javascript-course\18-forkify\starter\node_modules\js-yaml\lib\type\str.js133682676949252219 0
 144C:\Users\Reynard Greyling\OneDrive - Numeral\Desktop\JS\complete-javascript-course\18-forkify\starter\node_modules\js-yaml\lib\type\timestamp.js133682676949422703 0
@@ -3116,6 +3114,7 @@
 163C:\Users\Reynard Greyling\OneDrive - Numeral\Desktop\JS\complete-javascript-course\18-forkify\starter\node_modules\core-js\modules\es.reflect.prevent-extensions.js133685207077507369 0
 135C:\Users\Reynard Greyling\OneDrive - Numeral\Desktop\JS\complete-javascript-course\18-forkify\starter\node_modules\callsites\index.d.ts133682676941445836 0
 138C:\Users\Reynard Greyling\OneDrive - Numeral\Desktop\JS\complete-javascript-course\18-forkify\starter\node_modules\import-fresh\index.d.ts133682676942965154 0
+132C:\Users\Reynard Greyling\OneDrive - Numeral\Desktop\JS\complete-javascript-course\18-forkify\starter\dist\index.runtime.68b6249d.js133687075106025178 0
 137C:\Users\Reynard Greyling\OneDrive - Numeral\Desktop\JS\complete-javascript-course\18-forkify\starter\node_modules\callsites\package.json133682676940822368 0
 140C:\Users\Reynard Greyling\OneDrive - Numeral\Desktop\JS\complete-javascript-course\18-forkify\starter\node_modules\import-fresh\package.json133682676941974173 0
 153C:\Users\Reynard Greyling\OneDrive - Numeral\Desktop\JS\complete-javascript-course\18-forkify\starter\node_modules\core-js\full\array\virtual\group-by.js133685207096169011 0
@@ -3789,7 +3788,6 @@
 170C:\Users\Reynard Greyling\OneDrive - Numeral\Desktop\JS\complete-javascript-course\18-forkify\starter\node_modules\csso\node_modules\css-tree\lib\tokenizer\TokenStream.js133682676956812261 0
 159C:\Users\Reynard Greyling\OneDrive - Numeral\Desktop\JS\complete-javascript-course\18-forkify\starter\node_modules\@swc\helpers\_\_read_only_error\package.json133682676957477261 0
 143C:\Users\Reynard Greyling\OneDrive - Numeral\Desktop\JS\complete-javascript-course\18-forkify\starter\node_modules\core-js\full\number\index.js133685207101519043 0
-128C:\Users\Reynard Greyling\OneDrive - Numeral\Desktop\JS\complete-javascript-course\18-forkify\starter\dist\index.e37f48ea.js.map133687056905977085 0
 164C:\Users\Reynard Greyling\OneDrive - Numeral\Desktop\JS\complete-javascript-course\18-forkify\starter\node_modules\csso\node_modules\css-tree\lib\tokenizer\types.js133682676956852659 0
 159C:\Users\Reynard Greyling\OneDrive - Numeral\Desktop\JS\complete-javascript-course\18-forkify\starter\node_modules\csso\node_modules\css-tree\lib\syntax\atrule133682676956717131 1
 159C:\Users\Reynard Greyling\OneDrive - Numeral\Desktop\JS\complete-javascript-course\18-forkify\starter\node_modules\core-js\modules\esnext.number.from-string.js133685207083649643 0
@@ -3995,6 +3993,7 @@
 174C:\Users\Reynard Greyling\OneDrive - Numeral\Desktop\JS\complete-javascript-course\18-forkify\starter\node_modules\csso\node_modules\css-tree\cjs\syntax\node\SelectorList.cjs133682676953662682 0
 153C:\Users\Reynard Greyling\OneDrive - Numeral\Desktop\JS\complete-javascript-course\18-forkify\starter\node_modules\core-js\es\array\virtual\to-spliced.js133685207129952367 0
 154C:\Users\Reynard Greyling\OneDrive - Numeral\Desktop\JS\complete-javascript-course\18-forkify\starter\node_modules\core-js\features\symbol\metadata-key.js133685207110442059 0
+128C:\Users\Reynard Greyling\OneDrive - Numeral\Desktop\JS\complete-javascript-course\18-forkify\starter\dist\index.82e3db01.js.map133687075106123191 0
 168C:\Users\Reynard Greyling\OneDrive - Numeral\Desktop\JS\complete-javascript-course\18-forkify\starter\node_modules\csso\node_modules\css-tree\cjs\syntax\node\String.cjs133682676953753073 0
 174C:\Users\Reynard Greyling\OneDrive - Numeral\Desktop\JS\complete-javascript-course\18-forkify\starter\node_modules\csso\node_modules\css-tree\cjs\syntax\node\UnicodeRange.cjs133682676954083304 0
 154C:\Users\Reynard Greyling\OneDrive - Numeral\Desktop\JS\complete-javascript-course\18-forkify\starter\node_modules\core-js\modules\es.array.copy-within.js133685207075030277 0
@@ -4824,6 +4823,7 @@
 151C:\Users\Reynard Greyling\OneDrive - Numeral\Desktop\JS\complete-javascript-course\18-forkify\starter\node_modules\core-js\stable\array\virtual\some.js133685207122541646 0
 144C:\Users\Reynard Greyling\OneDrive - Numeral\Desktop\JS\complete-javascript-course\18-forkify\starter\node_modules\css-select\lib\esm\types.d.ts133682676953236330 0
 152C:\Users\Reynard Greyling\OneDrive - Numeral\Desktop\JS\complete-javascript-course\18-forkify\starter\node_modules\caniuse-lite\data\features\netinfo.js133682676960982234 0
+136C:\Users\Reynard Greyling\OneDrive - Numeral\Desktop\JS\complete-javascript-course\18-forkify\starter\dist\index.runtime.68b6249d.js.map133687075106123191 0
 152C:\Users\Reynard Greyling\OneDrive - Numeral\Desktop\JS\complete-javascript-course\18-forkify\starter\node_modules\core-js\full\async-iterator\reduce.js133685207116138923 0
 139C:\Users\Reynard Greyling\OneDrive - Numeral\Desktop\JS\complete-javascript-course\18-forkify\starter\node_modules\@parcel\packager-svg\src133682676942119576 1
 156C:\Users\Reynard Greyling\OneDrive - Numeral\Desktop\JS\complete-javascript-course\18-forkify\starter\node_modules\core-js\modules\esnext.aggregate-error.js133685207081254592 0
@@ -7701,7 +7701,6 @@
 157C:\Users\Reynard Greyling\OneDrive - Numeral\Desktop\JS\complete-javascript-course\18-forkify\starter\node_modules\core-js\actual\instance\find-last-index.js133685207089667324 0
 151C:\Users\Reynard Greyling\OneDrive - Numeral\Desktop\JS\complete-javascript-course\18-forkify\starter\node_modules\core-js\actual\instance\find-last.js133685207090018325 0
 170C:\Users\Reynard Greyling\OneDrive - Numeral\Desktop\JS\complete-javascript-course\18-forkify\starter\node_modules\@parcel\transformer-posthtml\lib\PostHTMLTransformer.js133682676942780153 0
-128C:\Users\Reynard Greyling\OneDrive - Numeral\Desktop\JS\complete-javascript-course\18-forkify\starter\dist\index.62406edb.js.map133682683315168051 0
 146C:\Users\Reynard Greyling\OneDrive - Numeral\Desktop\JS\complete-javascript-course\18-forkify\starter\node_modules\core-js\actual\instance\find.js133685207090232694 0
 187C:\Users\Reynard Greyling\OneDrive - Numeral\Desktop\JS\complete-javascript-course\18-forkify\starter\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\plugins\_applyTransforms.js133682676942290216 0
 147C:\Users\Reynard Greyling\OneDrive - Numeral\Desktop\JS\complete-javascript-course\18-forkify\starter\node_modules\core-js\actual\instance\flags.js133685207090954829 0
@@ -8790,6 +8789,7 @@
 163C:\Users\Reynard Greyling\OneDrive - Numeral\Desktop\JS\complete-javascript-course\18-forkify\starter\node_modules\@parcel\runtime-js\src\helpers\get-worker-url.js133682676947464378 0
 152C:\Users\Reynard Greyling\OneDrive - Numeral\Desktop\JS\complete-javascript-course\18-forkify\starter\node_modules\@parcel\runtime-js\src\helpers\worker133682676950683454 1
 165C:\Users\Reynard Greyling\OneDrive - Numeral\Desktop\JS\complete-javascript-course\18-forkify\starter\node_modules\@parcel\runtime-js\src\helpers\worker\js-loader.js133682676949302298 0
+125C:\Users\Reynard Greyling\OneDrive - Numeral\Desktop\JS\complete-javascript-course\18-forkify\starter\dist\icons.c14567a0.svg133687075105210070 0
 167C:\Users\Reynard Greyling\OneDrive - Numeral\Desktop\JS\complete-javascript-course\18-forkify\starter\node_modules\@parcel\runtime-js\src\helpers\worker\wasm-loader.js133682676950703487 0
 165C:\Users\Reynard Greyling\OneDrive - Numeral\Desktop\JS\complete-javascript-course\18-forkify\starter\node_modules\@parcel\runtime-js\src\helpers\node\html-loader.js133682676948092378 0
 163C:\Users\Reynard Greyling\OneDrive - Numeral\Desktop\JS\complete-javascript-course\18-forkify\starter\node_modules\@parcel\runtime-js\src\helpers\node\js-loader.js133682676949066306 0
@@ -9708,12 +9708,9 @@
 128C:\Users\Reynard Greyling\OneDrive - Numeral\Desktop\JS\complete-javascript-course\18-forkify\starter\node_modules\.bin\svgo.cmd133682676966035707 0
 128C:\Users\Reynard Greyling\OneDrive - Numeral\Desktop\JS\complete-javascript-course\18-forkify\starter\node_modules\.bin\svgo.ps1133682676966035707 0
 146C:\Users\Reynard Greyling\OneDrive - Numeral\Desktop\JS\complete-javascript-course\18-forkify\starter\node_modules\.bin\update-browserslist-db.ps1133682676966045779 0
-126C:\Users\Reynard Greyling\OneDrive - Numeral\Desktop\JS\complete-javascript-course\18-forkify\starter\dist\starter.3464ddca.js133682683314862343 0
-130C:\Users\Reynard Greyling\OneDrive - Numeral\Desktop\JS\complete-javascript-course\18-forkify\starter\dist\starter.3464ddca.js.map133682683314882353 0
-127C:\Users\Reynard Greyling\OneDrive - Numeral\Desktop\JS\complete-javascript-course\18-forkify\starter\dist\favicon.8b2f57bf.png133687035551282635 0
-117C:\Users\Reynard Greyling\OneDrive - Numeral\Desktop\JS\complete-javascript-course\18-forkify\starter\dist\index.html133687035551412493 0
-125C:\Users\Reynard Greyling\OneDrive - Numeral\Desktop\JS\complete-javascript-course\18-forkify\starter\dist\icons.dfd7a6db.svg133687035551492527 0
-125C:\Users\Reynard Greyling\OneDrive - Numeral\Desktop\JS\complete-javascript-course\18-forkify\starter\dist\icons.21bad73c.svg133687035551482562 0
-124C:\Users\Reynard Greyling\OneDrive - Numeral\Desktop\JS\complete-javascript-course\18-forkify\starter\dist\logo.726d37a8.png133687035551572555 0
-129C:\Users\Reynard Greyling\OneDrive - Numeral\Desktop\JS\complete-javascript-course\18-forkify\starter\dist\index.f7626f62.css.map133687035551812620 0
-124C:\Users\Reynard Greyling\OneDrive - Numeral\Desktop\JS\complete-javascript-course\18-forkify\starter\dist\index.e37f48ea.js133687056905947013 0
+127C:\Users\Reynard Greyling\OneDrive - Numeral\Desktop\JS\complete-javascript-course\18-forkify\starter\dist\favicon.42656662.png133687075099196045 0
+125C:\Users\Reynard Greyling\OneDrive - Numeral\Desktop\JS\complete-javascript-course\18-forkify\starter\dist\index.628a78b8.css133687075106025178 0
+129C:\Users\Reynard Greyling\OneDrive - Numeral\Desktop\JS\complete-javascript-course\18-forkify\starter\dist\index.628a78b8.css.map133687075106113174 0
+124C:\Users\Reynard Greyling\OneDrive - Numeral\Desktop\JS\complete-javascript-course\18-forkify\starter\dist\index.82e3db01.js133687075106030600 0
+117C:\Users\Reynard Greyling\OneDrive - Numeral\Desktop\JS\complete-javascript-course\18-forkify\starter\dist\index.html133687075106025178 0
+124C:\Users\Reynard Greyling\OneDrive - Numeral\Desktop\JS\complete-javascript-course\18-forkify\starter\dist\logo.833dfef5.png133687075101451831 0
